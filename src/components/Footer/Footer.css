@@ -1,0 +1,25 @@
+.FooterMain{
+    margin-top: 200px;
+}
+.Item p{
+    text-align: center;
+  }
+  .fpp{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .mainHead{
+    color: #2C2C2C;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 1px;
+  }
+  .emailff{
+    color: #2C2C2C;
+    padding-left: 5px;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+  }

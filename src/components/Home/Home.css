@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.MainClass{
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+.flex-container {
+    display: flex;
+    align-content: stretch;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 556px;
+    width: 100%;
+  }
+  .flex-container > div {
+    font-size: 30px;
+  }
+  .herodiv1{
+    width: 39%;
+  }
+  .heroImage{
+    height: 393px;
+    width: 649px;
+  }
+  .heroHeading{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 62px;
+    font-weight: 600;
+  }
+  .tradBox{
+    width: 100%;
+  }
+  .tradImage{
+    width: 124px;
+    height: 124px;
+  }
+  .tradGrid{
+    display: flex;
+    justify-content: center;
+  }
+  .tradBox p{
+    margin: 0;
+    display: flex;
+  }
+  .tradGrid  p{
+    color: #645C5C;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .TradHeading{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .flexBox2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .flexBox2 p{
+    color: #454545;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  .BTN_DesignCategories button{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    background-color: #11cdf3;
+    border-radius: 6px 6px 6px 6px;
+    padding: 15px 20px 15px 20px;
+  }
+  .ImageGrid{
+    width: 100%;
+  }
+  .MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.css-zow5z4-MuiGrid-root {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: baseline;
+    overflow: hidden;
+}
+  .ImageSlider{
+    width: 300PX;
+    margin-top: 100px;
+    height: 400PX;
+  }
+.PackHeading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.PackHeading h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+}
+.PackPara {
+    display: flex;
+    text-align: center;
+    align-content: stretch;
+    justify-content: center;
+    align-items: stretch;
+    padding: 0px 174px 0px 174px;
+}
+.TextFlex{
+    display: flex;
+    justify-content: center;
+}
+.TextFlex h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+.TextFlex2 h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+.TextImg{
+    margin-top: 300px;
+    width: 500px;
+    height: 624px;
+}
+.flex-TextImage{
+    display: flex;
+    align-content: stretch;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 550px;
+    margin-top: 100px;
+    width: 100%;
+}
+.TextImaHeading{
+    width: 50%;
+    margin-left: 90px;
+}
+.TextButton{
+    margin-top: 30px;
+}
+.TextPara{
+    font-family: "Gilroy", Sans-serif;
+    width: 60%;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;
+    color: black;
+}
+.TextPara2{
+    width: 60%;
+    text-align: left;
+}
+.ImageII{
+  display: flex;
+}
+.Footer {
+  margin-top: 300px;
+}
+.FooterMain p{
+  text-align: center;
+}
