@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.MainClass{
+  margin: auto;
+  width: 87%;
+  padding: 0px;
+}
+.flex-container {
+    display: flex;
+    align-content: stretch;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 556px;
+    width: 100%;
+  }
+  .flex-container > div {
+    font-size: 30px;
+  }
+  .herodiv1{
+    width: 49%;
+  }
+  .heroImage{
+    height: 393px;
+    width: 588px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .heroHeading{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 62px;
+    font-weight: 600;
+  }
+  p h1{
+    font-family: "Gilroy", Sans-serif;
+  }
+  .Heading p {
+    float: left;
+}
+  .tradBox{
+    width: 100%;
+  }
+  .TreadHeading{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 48px;
+  }
+  .tradImage{
+    width: 124px;
+    height: 124px;
+  }
+  .tradGrid{
+    display: flex;
+    justify-content: space-evenly
+  }
+  .tradBox p{
+    margin: 0;
+    display: flex;
+  }
+  .tradGrid  p{
+    color: #645C5C;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    width: max-content;
+    margin-top: 10px;
+  }
+  .TradHeading{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  .flexBox2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 34px 0px 59px;
+  }
+  .flexBox2 p{
+    color: #454545;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+  .BTN_DesignCategories button{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    background-color: #11cdf3;
+    border-radius: 6px 6px 6px 6px;
+    padding: 15px 20px 15px 20px;
+  }
+  .ImageGrid{
+    width: 100%;
+  }
+  .MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.css-zow5z4-MuiGrid-root {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-between;
+    align-items: baseline;
+    overflow: hidden;
+}
+  .ImageSlider{
+    width: 300PX;
+    margin-top: 100px;
+    height: 400PX;
+  }
+.PackHeading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.PackHeading h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+}
+.PackPara {
+  font-family: "Gilroy", Sans-serif;
+    display: flex;
+    text-align: center;
+    align-content: stretch;
+    justify-content: center;
+    align-items: stretch;
+    padding: 0px 174px 0px 174px;
+}
+.TextFlex{
+    display: flex;
+    justify-content: center;
+}
+.TextFlex h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+.TextFlex2 h1{
+    font-family: "Gilroy", Sans-serif;
+    font-size: 52px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+.TextImg{
+    margin-top: 300px;
+    width: 500px;
+    height: 624px;
+}
+.flex-TextImage{
+  display: flex;
+  align-content: stretch;
+  align-items: center;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  height: 550px;
+  margin-top: 100px;
+  width: 100%;
+}
+.TextImaHeading{
+  height: 74px;
+  width: 51%;
+  display: flex;
+  align-content: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.TextImaHeading2{
+  height: 74px;
+  width: 51%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  align-content: flex-end;
+}
+/* .TextImaHeading2{
+  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: flex-end;
+  align-items: flex-start;
+} */
+.TextButton{
+    margin-top: 30px;
+}
+.TextPara{
+    font-family: "Gilroy", Sans-serif;
+    width: 60%;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: left;
+    color: black;
+}
+.TextPara2{
+    text-align: left;
+}
+.TextPara222{
+  font-family: "Gilroy", Sans-serif;
+  width: 60%;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: left;
+  color: black;
+}
+.TextPara22{
+  text-align: left !important;
+    display: flex;
+    justify-content: flex-start;
+    width: 60%;
+}
+.ImageII{
+  display: flex;
+}
+.Footer {
+  margin-top: 300px;
+}
+.FooterMain p{
+  text-align: center;
+}

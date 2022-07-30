@@ -1,0 +1,19 @@
+span.MuiRating-root.MuiRating-sizeMedium.rating.css-iljtu2-MuiRating-root {
+    display: flex;
+    font-size: 34px;
+    justify-content: center;
+    margin-top: 20px;
+}
+p{
+    margin: -20px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+    color: #454545;
+    font-family: "Gilroy", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
